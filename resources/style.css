@@ -143,16 +143,6 @@ a:hover {
   display: none;
 }
 
-nav li a{
-	color: #4a4a4a;
-	padding: 1.35rem 0.5rem 1.35rem 0.5rem;
-	transition: color 0.700s linear;
-}
-
-nav li .active, nav li .link-desktop:hover{
-	background-color: #0871cc;
-	color: #ffffff;
-}
 
 /** Mobile version **/
 
@@ -387,6 +377,7 @@ nav li .active, nav li .link-desktop:hover{
   font-weight: lighter;
   color: black;
 }
+
 
 #btn {
   background: none;
